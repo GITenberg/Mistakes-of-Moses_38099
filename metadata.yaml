@@ -1,0 +1,42 @@
+_repo: Mistakes-of-Moses_38099
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, R. G. (Robert Green)
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, Bob
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: One of the nineteenth century's leading spokesmen for freethinking and
+  agnosticism, Ingersoll attempts nothing less than a deconstruction of the Old Testament
+  in this volume. The stories of the Tower of Babel, Noah and the flood, the plagues
+  of Egypt, and the forty years of wandering in the desert . . . all are greeted with
+  skepticism, to say the least.
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought'
+tableOfContents: Preface -- Some mistakes of Moses -- Free schools -- The politicians
+  -- Man and woman -- The Pentateuch -- Monday -- Tuesday -- Wednesday -- Thursday
+  -- "He made the stars also" -- Friday -- Saturday -- Let us make man -- Sunday --
+  The necessity for a good memory -- The garden -- The fall -- Dampness -- Bacchus
+  and Babel -- Faith in filth -- The Hebrews -- The plagues -- The flight -- Confess
+  and avoid -- "Inspired" slavery -- "Inspired" marriage -- "Inspired" war -- "Inspired"
+  religious liberty -- Conclusion.
+title: Mistakes of Moses
+url: http://www.gutenberg.org/ebooks/38099
